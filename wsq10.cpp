@@ -1,28 +1,6 @@
 #include <iostream>
 #include <cmath>
-using namespace std;
-
-/*
-int deviation (int array []){
-  int sum = 0;
-  float avarage, xi, deviation, suma = 0.0;
-  for (int i = 0; i >= 9; i++){
-    sum = sum + array[i];
-  }
-  avarage = sum/10.0;
-
-  for (int c = 0; c >= 0; c++){
-    xi = (array[c] + array[c+1])/2.0;
-    suma = suma + xi;
-    c++;
-  }
-
-
-}
-*/
-
-
-
+using namespace std; 
 
 
 float calcular_promedio (float array [], int size) {
